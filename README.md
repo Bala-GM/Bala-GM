@@ -1,7 +1,6 @@
 ## Hi, I'm Bala Ganesh 👋
 
 - 🔭 I’m currently working @ Syrma SGS as Process Engineer
-<br>
 - 🌱 I’m currently learning Python
 
 ## Bio
